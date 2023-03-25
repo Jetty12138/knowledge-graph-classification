@@ -43,15 +43,15 @@ papers
 
 - **Evidential Relational-Graph Convolutional Networks for Entity Classification in Knowledge Graphs**  <br>
 [CIKM] ()  　ACM  <br> 
-[PDF](https://webvpn.swu.edu.cn/https/537775736869676568616f787565652139b51cba7690c58ede41/doi/pdf/10.1145/3459637.3482102) <br>
+[PDF](https://dl.acm.org/doi/pdf/10.1145/3459637.3482102) <br>
 
 - **GCNBoost: Artwork Classification by Label Propagation through a Knowledge Graph**  <br>
 [ICMR] ()  　ACM  <br> 
-[PDF](https://webvpn.swu.edu.cn/https/537775736869676568616f787565652139b51cba7690c58ede41/doi/pdf/10.1145/3460426.3463636) <br>
+[网页](https://dl.acm.org/doi/10.1145/3460426.3463636) <br>
 
 - **Deep Learning meets Knowledge Graphs for Scholarly Data Classification**  <br>
 [WWW] ()  　ACM  <br> 
-[PDF](https://webvpn.swu.edu.cn/https/537775736869676568616f787565652139b51cba7690c58ede41/doi/pdf/10.1145/3442442.3451361) <br>
+[网页](https://dl.acm.org/doi/10.1145/3442442.3451361) <br>
 
 - **A semantic approach for document classification using deep neural networks and multimedia knowledge graph**  <br>
 [Expert Systems with Applications] ()  　Elsevier  <br> 
@@ -111,7 +111,7 @@ papers
 
 - **Knowledge-Powered Deep Breast Tumor Classification With Multiple Medical Reports**  <br>
 [EEE ACM T COMPUT BI] ()  　ACM  <br> 
-[PDF](https://webvpn.swu.edu.cn/https/537775736869676568616f787565652139b51cba7690c58ede41/doi/pdf/10.1109/TCBB.2019.2955484) <br>
+[网页](https://dl.acm.org/doi/10.1109/TCBB.2019.2955484) <br>
 
 - **Enriching BERT with Knowledge Graph Embeddings for Document Classification**  <br>
 [Speech and Language Technology] ()  　  <br> 
