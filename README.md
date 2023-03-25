@@ -21,6 +21,10 @@ papers
 [BIBM] ()  　IEEE  <br> 
 [PDF](https://webvpn.swu.edu.cn/https/537775736869676568616f787565652134bc57be6d8d878ede43675b1ba8f510700bf6/stamp/stamp.jsp?tp=&arnumber=9669286) <br>
 
+- **Entity Classification for Military Knowledge Graph based on Baidu Encyclopedia Distance Learning**  <br>
+[IBCAST] ()  　IEEE  <br> 
+[PDF](https://webvpn.swu.edu.cn/https/537775736869676568616f787565652134bc57be6d8d878ede43675b1ba8f510700bf6/stamp/stamp.jsp?tp=&arnumber=9393163) <br>
+
 ## 2020
 
 - **BaKGraSTeC: A Background Knowledge Graph Based Method for Short Text Classification**  <br>
@@ -33,15 +37,25 @@ papers
 [ICHI] ()  　IEEE  <br> 
 [PDF](https://webvpn.swu.edu.cn/https/537775736869676568616f787565652134bc57be6d8d878ede43675b1ba8f510700bf6/stamp/stamp.jsp?tp=&arnumber=8904588) <br>
 
+- **Mixed Word Embedding Method Based on Knowledge Graph Augment for Text Classification**  <br>
+[ISPA/BDCloud/SocialCom/SustainCom] ()  　IEEE  <br> 
+[PDF](https://webvpn.swu.edu.cn/https/537775736869676568616f787565652134bc57be6d8d878ede43675b1ba8f510700bf6/stamp/stamp.jsp?tp=&arnumber=9047450) <br>
+
+- **Multi-layer Convolutional Neural Network Model Based on Prior Knowledge of Knowledge Graph for Text Classification**  <br>
+[ICCCBDA] ()  　IEEE  <br> 
+[PDF](https://webvpn.swu.edu.cn/https/537775736869676568616f787565652134bc57be6d8d878ede43675b1ba8f510700bf6/stamp/stamp.jsp?tp=&arnumber=8725669) <br>
+
+- **Deep Short Text Classification with Knowledge Powered Attention**  <br>
+[AAAI-19] ()  　ACM  <br> 
+[PDF](https://dl.acm.org/doi/pdf/10.1609/aaai.v33i01.33016252) <br>
+
 ## 2018
 
 - **Relation Classification in Knowledge Graph Based on Natural Language Text**  <br>
 [ICSESS] ()  　IEEE  <br> 
 [PDF](https://webvpn.swu.edu.cn/https/537775736869676568616f787565652134bc57be6d8d878ede43675b1ba8f510700bf6/stamp/stamp.jsp?tp=&arnumber=8663945) <br>
 
-- ****  <br>
-[] ()  　IEEE  <br> 
-[PDF]() <br>
+
 
 - ****  <br>
 [] ()  　IEEE  <br> 
